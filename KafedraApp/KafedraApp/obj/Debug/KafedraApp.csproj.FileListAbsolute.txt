@@ -1,0 +1,39 @@
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\bin\Debug\KafedraApp.exe.config
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\bin\Debug\KafedraApp.exe
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\bin\Debug\KafedraApp.pdb
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\LoginWindow.baml
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\LoginWindow.g.cs
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp_MarkupCompile.cache
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp.g.resources
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp.exe
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp.pdb
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\bin\Debug\EntityFramework.dll
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\bin\Debug\EntityFramework.xml
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp_Content.g.cs
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Экзамен\KafedraApp\KafedraApp\obj\Debug\KafedraApp.csproj.Up2Date
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\bin\Debug\KafedraApp.exe.config
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\bin\Debug\KafedraApp.exe
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\bin\Debug\KafedraApp.pdb
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\bin\Debug\EntityFramework.dll
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\bin\Debug\EntityFramework.xml
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp.csproj.AssemblyReference.cache
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp.exe.config
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\LoginWindow.baml
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\MainWindow.baml
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\LoginWindow.g.cs
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\MainWindow.g.cs
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\App.g.cs
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp_Content.g.cs
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp_MarkupCompile.cache
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp.g.resources
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp.csproj.CoreCompileInputs.cache
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp.csproj.Up2Date
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp.exe
+C:\Users\sql\Desktop\Краснов Егор и Грабельников 09-02-07 4K\KafedraApp\KafedraApp\obj\Debug\KafedraApp.pdb
